@@ -1,3 +1,7 @@
+*   Allow passing an environment to `config_for`.
+
+    *Simon Eskildsen*
+
 *   Plugins generated using `rails plugin new` are now generated with the
     version number set to 0.1.0.
 
